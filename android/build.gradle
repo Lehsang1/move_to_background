@@ -25,7 +25,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com.wizzride.move_to_background'
+    namespace 'com.sayegh.move_to_background'
     compileSdkVersion 33
 
     defaultConfig {
