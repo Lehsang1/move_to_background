@@ -25,7 +25,8 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 28
+    namespace 'com.wizzride.wizzride'
+    compileSdkVersion 33
 
     defaultConfig {
         minSdkVersion 16
